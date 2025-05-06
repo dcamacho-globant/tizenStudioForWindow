@@ -9,7 +9,7 @@
   - [Import App](#import-app)
   - [Build And Run](#build-and-run)
   - [Change URL](#change-url)
-  - [Debug manager](#enable-manager)
+  - [Debug manager](#debug-manager)
 
 
 
