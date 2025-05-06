@@ -96,7 +96,7 @@ In theory, the **IPv4** address is the one you should configure in the developer
 
 After you have connected your computer to your TV, you will see it reflected in the list.
 
-![Screenshot 2025-05-05 at 5 38 05 PM](https://github.com/user-attachments/assets/83f35157-69d7-4e7b-818c-cad1ef1fa9d6)
+![connected_tv](https://github.com/user-attachments/assets/1c8e525d-f3e7-423d-9c8a-d325bc830159)
 
 ## Install Certificate
 
